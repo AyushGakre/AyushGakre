@@ -20,5 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgakre&show_icons=true&theme=dark&locale=en&layout=compact" alt="ayushgakre" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgakre&show_icons=true&locale=en" alt="ayushgakre" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgakre&show_icons=true&theme=dark&locale=en" alt="ayushgakre" /></p>
+
 
